@@ -1,5 +1,7 @@
 # Sui NFT Deployer
 
+![banner](assets/banner.jpg)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Sui](https://img.shields.io/badge/Sui-Testnet%20%7C%20Mainnet-6FBCF0.svg)](https://sui.io)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg)](https://www.typescriptlang.org)
