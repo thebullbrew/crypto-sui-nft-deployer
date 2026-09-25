@@ -1,0 +1,11 @@
+[package]
+name = "nft_collection"
+edition = "2024.beta"
+
+[dependencies]
+# Sui framework (sui::object, sui::transfer, sui::display, ...).
+# Pin the rev to the network you deploy to (framework/testnet, framework/mainnet).
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "framework/testnet" }
+
+[addresses]
+nft_collection = "0x0"
